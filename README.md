@@ -1,10 +1,11 @@
  Run these commands in your terminal
- 1 npm install
+ 
+<h1> 1 npm install</h1>
  <br>
- 2 npm install express
+ <h1>2 npm install express</h1>
  
- 2 npm install nodemon
+ <h1>3 npm install nodemon</h1>
  
- 3 npm install mongoose
+<h1>4 npm install mongoose </h1> 
  
- 4 npm install bcryptjs
+ <h1>5 npm install bcryptjs</h1>
